@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.rolagem_h {
+  width: 200px;
+  height: 70px;
+  padding: 5px;
+  border: 5px solid rebeccapurple;
+  overflow-x: scroll;
+  white-space: nowrap;
+}

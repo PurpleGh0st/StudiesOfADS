@@ -1,0 +1,8 @@
+Exercício 01
+ENUNCIADO:
+No arquivo index.html, crie uma lista 
+
+
+OBSERVAÇÕES:
+Os tópicos da lista, devem estar no formato quadrado
+A estilização deve estar apenas no arquivo style.css

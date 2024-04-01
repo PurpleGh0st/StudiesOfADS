@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.exemplo1 {
+  width: 200px;
+  padding: 10px;
+  border: 3px solid rebeccapurple;
+  box-sizing: border-box;
+}
+
+.exemplo2 {
+  width: 200px;
+  height: 100px;
+  padding: 10px;
+  border: 3px solid rebeccapurple;
+  overflow: hidden;
+}

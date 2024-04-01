@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-size: 20px;
+}
+table{
+  border-collapse: collapse;
+  width: 100%;
+  border: 5px ridge  #f3f3be ;
+}
+th, td{
+  border: 5px ridge  #f3f3be ;
+  background-color: orange;
+  padding: 10px;
+  text-align: center;
+}
+caption{
+  background-color: red;
+}
+.amarelo{
+  background-color: yellow;
+}

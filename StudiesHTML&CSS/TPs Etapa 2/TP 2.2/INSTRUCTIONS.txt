@@ -1,0 +1,12 @@
+Exercício 02
+ENUNCIADO:
+No arquivo index.html, crie listas abaixo seguindo o padrão de estilização:
+lista ordenada 
+os três primeiros itens em negrito 
+os três últimos em itálico 
+o restante não aparecerá
+serão 9 itens 
+
+
+OBSERVAÇÕES:
+A estilização deve estar apenas no arquivo style.css

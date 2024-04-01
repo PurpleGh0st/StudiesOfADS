@@ -1,0 +1,9 @@
+Exercício 06
+ENUNCIADO:
+Nesse exercício:
+
+Crie uma tabela
+
+OBSERVAÇÕES:
+Toda a tabela, deve ter um espaçamento interno
+A estilização deve estar apenas no arquivo style.css

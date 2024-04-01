@@ -1,0 +1,18 @@
+Exercício 03
+ENUNCIADO:
+No arquivo index.html, recrie a lista de definição abaixo:
+
+_____
+Capítulo 1
+  Introdução
+  Motivação
+Capítulo 2
+  Referência bibliográfica
+  Metodologia
+_____
+*Capítulos em preto, o restante em um tom azulado*
+
+OBSERVAÇÕES:
+Deve manter a mesma estilização pedida
+Nenhum subitem é um link apesar da cor azulada
+A estilização deve estar apenas no arquivo style.css

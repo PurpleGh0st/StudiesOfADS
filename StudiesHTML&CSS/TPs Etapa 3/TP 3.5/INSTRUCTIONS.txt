@@ -1,0 +1,8 @@
+Exercício 05
+ENUNCIADO:
+Nesse exercício:
+
+Crie uma tabela
+
+OBSERVAÇÕES:
+A estilização deve estar apenas no arquivo style.css

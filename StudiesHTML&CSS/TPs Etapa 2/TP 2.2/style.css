@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.items_negrito {
+  font-weight: bold;
+}
+
+.items_vazios {
+  visibility: hidden;
+}
+
+.items_italico {
+  font-style: italic;
+}

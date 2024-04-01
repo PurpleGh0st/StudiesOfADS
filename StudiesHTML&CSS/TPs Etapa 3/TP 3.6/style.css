@@ -1,0 +1,53 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.tabela {
+  width: 80%;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+.cabecalho {
+  color: #ffffff;
+  background-color: #869960;
+  font-weight: bold;
+}
+
+tr {
+  border: 2px solid black;
+}
+
+td {
+  border: 2px solid black;
+}
+
+.td1 {
+  padding: 10px;
+}
+.td2 {
+  padding: 10px 12px;
+  text-align: center;
+}
+.td3 {
+  padding: 10px 15px;
+  text-align: center;
+}
+
+.total {
+  text-align: right;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.cinza {
+  background-color: #d6d6d6;
+}
+
+.cinza2 {
+  background-color: #ededed;
+  padding: 10px 15px;
+  text-align: center;
+}

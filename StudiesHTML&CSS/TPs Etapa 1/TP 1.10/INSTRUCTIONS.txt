@@ -1,0 +1,13 @@
+Exercício 10
+CONTEXTO:
+No trecho de código HTML, de qual cor seria o parágrafo com conteúdo “To come to the aid of their country”?
+
+
+ENUNCIADO:
+Responda à pergunta dentro de uma tag p.
+
+Reproduza fazendo com que a frase mencionada no CONTEXTO, fique em negrito e com a cor vermelha.
+
+OBSERVAÇÕES:
+Deve estilizar o segundo parágrafo em negrito e vermelho para a cor
+Deve estilizar dentro do arquivo index.html

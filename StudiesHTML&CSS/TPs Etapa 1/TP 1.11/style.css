@@ -1,0 +1,10 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#card {
+  display: flex;
+  justify-content: center;
+  border: red dashed 2px;
+}
