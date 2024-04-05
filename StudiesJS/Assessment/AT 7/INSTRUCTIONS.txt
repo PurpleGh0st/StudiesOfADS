@@ -1,0 +1,2 @@
+Questão 7
+Construa um programa que solicite do usuário três números através do prompt e informe qual deles é o maior e qual é o menor.

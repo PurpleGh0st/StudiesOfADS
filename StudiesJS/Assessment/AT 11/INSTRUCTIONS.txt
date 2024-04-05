@@ -1,0 +1,3 @@
+Questão 11
+Utilize o arquivo script.js para solucionar essa questão.
+Criar uma função getHoraMinutoSegundo que retorna o tempo da data atual no seguinte formato: hora:minuto:segundo.

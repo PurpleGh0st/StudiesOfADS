@@ -1,0 +1,16 @@
+Questão 10
+Utilize o arquivo script.js para solucionar essa questão.
+Escreva um programa que informe a faixa etária do usuário com base na categoria fornecida pelo usuário.
+
+As categorias possíveis são: "Criança", "Adolescente", "Jovem", "Adulto" e "Idoso". Caso o usuário informe uma categoria que não existe, informe que a categoria é inválida.
+
+Utilize o comando Switch.
+
+Siga a tabela abaixo:
+
+Idade			Categoria
+0 - 12 anos		Criança
+13 - 18 anos		Adolescente
+19 - 35 anos		Jovem
+36 - 59 anos	        Adulto
+60 anos ou mais 	Idoso

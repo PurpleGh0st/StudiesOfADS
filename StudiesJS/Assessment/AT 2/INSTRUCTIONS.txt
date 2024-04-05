@@ -1,0 +1,6 @@
+Questão 2
+Utilize o arquivo script.js para solucionar essa questão.
+Utilize prompt e alert para solucionar essa questão.
+Um motorista deseja abastecer seu carro com um determinado valor em reais.
+
+Escreva um programa para ler o preço do litro do combustível e o valor que o motorista deseja abastecer. Por fim, mostre quantos litros foram colocados no tanque.

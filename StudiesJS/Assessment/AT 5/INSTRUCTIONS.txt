@@ -1,0 +1,6 @@
+Questão 5
+Utilize o arquivo script.js para solucionar essa questão.
+Utilize prompt e alert para solucionar essa questão.
+Crie um programa que solicite ao usuário que digite um número inteiro.
+
+Informe se o número digitado é positivo, negativo ou zero.

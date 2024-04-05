@@ -1,0 +1,10 @@
+Questão 6
+Utilize o arquivo script.js para solucionar essa questão.
+Utilize prompt e alert para solucionar essa questão.
+Um motorista deseja abastecer seu carro com um determinado valor em reais.
+
+Escreva um programa para ler o preço do litro do álcool e da gasolina e informe se o motorista deve usar um ou outro combustível.
+
+O cálculo básico para descobrir se o álcool é vantajoso ou não em relação a gasolina é simples: basta dividir o preço do litro do álcool pelo da gasolina.
+
+Se o resultado for inferior a 0,7, use álcool; se for maior ou igual à 0,7, use gasolina.

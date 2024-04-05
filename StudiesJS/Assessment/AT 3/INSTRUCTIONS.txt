@@ -1,0 +1,4 @@
+Questão 3
+Utilize o arquivo script.js para solucionar essa questão.
+Utilize prompt e alert para solucionar essa questão.
+Crie um programa que obtenha o valor de uma conta de restaurante. Assumindo que o valor da gorjeta seja de 10% em cima valor da conta, faça com que seu programa mostre o valor total a ser pago no restaurante (valor + gorgeta).

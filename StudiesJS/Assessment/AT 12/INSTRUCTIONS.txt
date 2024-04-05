@@ -1,0 +1,8 @@
+Questão 12
+Utilize o arquivo script.js para solucionar essa questão.
+Crie uma função getLocaleDate, que retorna a data atual no formato localizado do seu navegador. Para tanto, utilize o parâmetro navigator.language para obter o idioma do navegador, e passe esse valor como parâmetro para a função toLocaleDateString.
+
+Exemplo
+const dataLocalizada = getLocaleDate();
+console.log(dataLocalizada); 
+// Mostra algo como '19/03/2023'
