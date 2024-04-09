@@ -13,18 +13,18 @@
 
 - **Documentação Detalhada:** Incluo instruções, especificações e relatórios relevantes para cada atividade, ajudando a entender o contexto e o objetivo de cada trabalho.
 
-- **Espaço para Colaboração:** Estou aberto a colaborações! Se você tiver sugestões de melhorias, correções ou quiser compartilhar conhecimento, fique à vontade para enviar pull requests ou abrir issues.
+- **Espaço para Colaboração:** Estou aberta a colaborações! Se você tiver sugestões de melhorias, correções ou quiser compartilhar conhecimento, fique à vontade para enviar pull requests ou abrir issues.
 
 
 ## ˗ˏˋ 𝙰𝚙𝚛𝚎𝚗𝚍𝚒𝚣𝚊𝚍𝚘𝚜 ˎˊ˗
 
                          ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾.
-*Embora esteja apenas começando, mal posso esperar para encher este repositório com as aventuras e descobertas que o emocionante mundo da programação tem a oferecer ao longo da minha jornada universitária. Cada linha de código é uma oportunidade para mergulhar em novas experiências e desafios, e estou determinado a tornar esta jornada tão incrível quanto possível.*
+*Embora esteja apenas começando, mal posso esperar para encher este repositório com as aventuras e descobertas que o emocionante mundo da programação tem a oferecer ao longo da minha jornada universitária. Cada linha de código é uma oportunidade para mergulhar em novas experiências e desafios, e estou determinada a tornar esta jornada tão incrível quanto possível.*
 
 ## ˗ˏˋ 𝚃𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊𝚜 𝚄𝚝𝚒𝚕𝚒𝚣𝚊𝚍𝚊𝚜 ˎˊ˗
-![HTML](https://icons8.com/icon/48931/html-5)
-<img src="https://icons8.com/icon/48931/html-5" alt="Logo HTML5">
-
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="33" height="33"/> </a>
 
 
 ## ˗ˏˋ 𝙲𝚘𝚗𝚝𝚊𝚝𝚘 ˎˊ˗
